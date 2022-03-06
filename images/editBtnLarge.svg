@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="45" viewBox="0 0 44 45">
+  <g id="editBtnLarge" transform="translate(-339 -25)">
+    <rect id="editBtnLarge-2" data-name="editBtnLarge" width="44" height="45" rx="10" transform="translate(339 25)" fill="#004953"/>
+    <path id="Icon_material-edit" data-name="Icon material-edit" d="M4.5,22.705V27.5H9.291l14.13-14.13L18.63,8.575ZM27.126,9.661a1.272,1.272,0,0,0,0-1.8l-2.99-2.99a1.272,1.272,0,0,0-1.8,0L20,7.208,24.788,12l2.338-2.338Z" transform="translate(345.5 31.504)" fill="#fff"/>
+  </g>
+</svg>

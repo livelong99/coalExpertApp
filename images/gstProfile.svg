@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="gstProfile" transform="translate(-76 -298)">
+    <g id="Rectangle_1363" data-name="Rectangle 1363" transform="translate(76 298)" fill="#fff" stroke="rgba(0,73,83,0.4)" stroke-width="1">
+      <rect width="40" height="40" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="39" rx="9.5" fill="none"/>
+    </g>
+    <text id="GST" transform="translate(83 323)" fill="#004953" font-size="13" font-family="Montserrat" font-weight="700"><tspan x="0" y="0">GST</tspan></text>
+  </g>
+</svg>

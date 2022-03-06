@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="mailProfile" transform="translate(-76 -318)">
+    <g id="Rectangle_1363" data-name="Rectangle 1363" transform="translate(76 318)" fill="#fff" stroke="rgba(0,73,83,0.4)" stroke-width="1">
+      <rect width="40" height="40" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="39" rx="9.5" fill="none"/>
+    </g>
+    <g id="Icon_feather-mail" data-name="Icon feather-mail" transform="translate(83 324)">
+      <path id="Path_17051" data-name="Path 17051" d="M5,6H21a2.006,2.006,0,0,1,2,2V20a2.006,2.006,0,0,1-2,2H5a2.006,2.006,0,0,1-2-2V8A2.006,2.006,0,0,1,5,6Z" fill="none" stroke="#004953" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_17052" data-name="Path 17052" d="M23,9,13,19.5,3,9" fill="none" stroke="#004953" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

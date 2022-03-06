@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="paymentWait" transform="translate(4404 -131.719)">
+    <circle id="Ellipse_280" data-name="Ellipse 280" cx="20" cy="20" r="20" transform="translate(-4404 131.719)" fill="#f92d2d"/>
+    <g id="schedule-payment" transform="translate(-4396.25 141.688)">
+      <path id="Path_17099" data-name="Path 17099" d="M22.988,12.718V4.09A2.09,2.09,0,0,0,20.9,2H2.09A2.09,2.09,0,0,0,0,4.09V16.629a2.09,2.09,0,0,0,2.09,2.09H13.806a5.745,5.745,0,1,0,9.183-6Z" transform="translate(0 -2)" fill="#fff"/>
+      <g id="Group_5035" data-name="Group 5035" transform="translate(0 0)">
+        <path id="Path_17100" data-name="Path 17100" d="M20.9,2H2.09A2.09,2.09,0,0,0,0,4.09V5.135H22.988V4.09A2.09,2.09,0,0,0,20.9,2ZM13.585,17.275a5.742,5.742,0,0,1,9.4-4.551V9.314H0v7.314a2.09,2.09,0,0,0,2.09,2.09H13.808a5.741,5.741,0,0,1-.223-1.444Z" transform="translate(0 -2)" fill="red" opacity="0.1"/>
+        <path id="Path_17101" data-name="Path 17101" d="M18.624,11a5.748,5.748,0,1,0,5.87,5.623A5.748,5.748,0,0,0,18.624,11Zm1.321,7.683-1.72-1.721V13.09H19.27v3.441l1.414,1.414Z" transform="translate(0.584 -1.596)" fill="red" opacity="0.2"/>
+        <path id="Path_17102" data-name="Path 17102" d="M19.72,18.595,18,16.874V13h1.045v3.441l1.415,1.415Z" transform="translate(0.809 -1.506)" fill="red" opacity="0.8"/>
+      </g>
+    </g>
+  </g>
+</svg>
